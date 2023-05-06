@@ -1,0 +1,23 @@
+tulis 10 tag yang termasuk display inline!
+1. <span>
+2. <strong>
+3. <em>
+4. <a>
+5. <code>
+6. <input>
+7. <img>
+8. <abbr>
+9. <q>
+10.<time>
+
+tulis 10 tag yang termasuk display block!
+1. <div>
+2. <p>
+3. <h1> - <h6>
+4. <ul>
+5. <ol>
+6. <li>
+7. <table>
+8. <form>
+9. <header>
+10 <footer>

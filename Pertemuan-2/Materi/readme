@@ -1,0 +1,15 @@
+css
+
+3 metode
+1.inline
+2.internal
+3.external
+
+Anatomi CSS:
+
+Selector {
+    property : value;
+    property : value;
+    property : value;
+}
+<!-- Alt + shift + panah bawah-->
