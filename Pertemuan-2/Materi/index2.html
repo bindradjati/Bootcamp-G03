@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Latihan 2</title>
+    <style>
+    *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+
+    .container{
+        border: 1px solid red;
+        width: 80%;
+        margin:auto;
+        margin-top: 200px;
+        position: relative;
+    }
+        /* position :
+            1. absolute
+            2. relative
+            3. static => default
+            4. fixed
+            */
+
+    .k1{
+        width: 100px;
+        height: 100px;
+        background-color: lightgreen;
+
+    }
+    .k2{
+        width: 100px;
+        height: 100px;
+        background-color: salmon;
+        position: absolute;
+        /* top,left,right,bottom */
+        right: 0;
+        top: 0;
+        /*position: relative; */
+        /* transform: translateX(10px) */
+        box-shadow: 2 px 2 px 14 px  rgba(0, 0, 0, 70%);
+    
+    }
+    .k3 {
+        width:100px;
+        height: 100px;
+        background-color: yellow;
+    }
+    </style>
+    </head>
+
+    <body>
+        <div class="container">
+            <div class="k1"></div>
+            <div class="k2"></div>
+            <div class="k3"></div>
+        </div>
+    </body>
+    </html>
