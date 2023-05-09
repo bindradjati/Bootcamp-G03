@@ -5,3 +5,4 @@ ctrl + enter = lanjut kolom selanjutnya
 ctrl + shift + enter = ke kolom sebelumnya
 ctrl + shit + k = hapus satu baris
 alt + panah atas / bawah = scroll baris
+shift + alt + a = nambah komentar
